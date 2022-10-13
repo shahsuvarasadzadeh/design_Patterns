@@ -1,4 +1,4 @@
-package factory_Pattern.factPattern;
+package creational_Pattern.Factory_Pattern;
 
 public class ShapeFactory {
     // use getShape method to get object of type shape

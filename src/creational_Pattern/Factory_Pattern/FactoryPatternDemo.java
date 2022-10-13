@@ -1,4 +1,4 @@
-package factory_Pattern.factPattern;
+package creational_Pattern.Factory_Pattern;
 
 public class FactoryPatternDemo {
     public static void main(String[] args) {
